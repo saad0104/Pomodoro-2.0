@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Pomodoro Timer
+Comment=Sticky note pomodoro timer
+Exec=/usr/bin/python3 "/home/saad/Pomodoro 2.0/pomodoro-sticky.py"
+Terminal=false
+Categories=Utility;Clock;
+Icon=alarm-clock
